@@ -2,6 +2,6 @@
 Suryash - Employee
 Akhya - Department
 Aditya - Location
-Tithye - country
+Tithaye - country
 Khushi - jobs
 ayush - region
